@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties letter, directed to the Lords and Commons of Parliament assembled at Westminster concerning a treaty for peace. With the answer of both Houses thereunto, sent to His Majesty to Oxford, March 9. 1643.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19010</idno><idno type="EEBO-CITATION">18850693</idno>
+  <idno type="VID">200067</idno>
+  <idno type="EEBO-PROQUEST">2264178393</idno>
+  
+            <idno type="STC">Wing C2387_VARIANT</idno>
+            <idno type="OCLC">18850693</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200067)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 235:E37, no 11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties letter, directed to the Lords and Commons of Parliament assembled at Westminster concerning a treaty for peace. With the answer of both Houses thereunto, sent to His Majesty to Oxford, March 9. 1643.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March. 13. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Die Martis, 12 Mart. 1643. Ordered this day by the Lords in Parliament, that the printer belonging to the House of Peeres shall print His Majesties letter dated the 3 of March ... J. Brown cler. Parliamentorum."</note>
+                  <note>In this printing, the caption title begins, "The superscription of the letter was this:"; page 6 contains the names of two signers: Wil. Lord Grey of Wark, Speaker of the House of Peers pro tempore, Wil. Lenthall Speaker of the House of Commons in Parliament.</note>
+                  <note>Thomason annotation: "More authentick ... 13 days after."</note>
+                  <note>Reproduction of original in: Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:200067:1"/>
+            <p>HIS MAIESTIES LETTER, DIRECTED To the Lords and Commons of PARLIAMENT Assembled at WESTMINSTER: CONCERNING A Treaty for Peace. With the Answer of both Houses thereunto; sent to His Majesty to <hi>Oxford, March</hi> 9. 1643.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>Die Martis, 12 <hi>Mart.</hi> 1643.</date>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <hi>ORdered this day by the Lords in Parliament, that the Printer belonging to the House of Peeres shall print His Majesties Letter dated the</hi> 3 <hi>of March; and the Answer there<g ref="char:EOLhyphen"/>unto sent to His Majesty from both Houses of Parliament, dated the</hi> 9 <hi>of this instant. And that no man shall presume to reprint the said Letter and Answer, as he will answer the contrary to this House at his perill.</hi>
+                           </p>
+                           <closer>
+                              <signed>J. Brown Cler. Parliamentorum.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, March. 13. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:200067:2"/>
+            <pb facs="tcp:200067:2"/>
+            <head>
+               <figure>
+                  <figDesc>crowned representations of a rose, thistle, fleur-de-lis, and harp</figDesc>
+               </figure>
+               <hi>The Superscription of the Letter was this:</hi> TO THE Lords and Commons of Parliament Assembled at <hi>Westminster.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES REX,</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Vt of Our most tender and pious sence of the sad and bleeding condition of this Our Kingdom, and Our un<g ref="char:EOLhyphen"/>wearied desires to apply all Remedies which by the bles<g ref="char:EOLhyphen"/>sing of Almighty God may recover it from an utter ruine; <hi>By the advice of the Lords and Commons of Parliament Assembled at Oxford,</hi> We doe propound and desire, That a convenient number of fit persons may be
+<pb n="2" facs="tcp:200067:3"/>appointed and authorized by you to meet (with all convenient speed, at such place as you shall nominate) with an equall number of fit persons, whom We shall appoint and authorize to Treat of the waies and meanes to settle the present distractions of this Our Kingdome, and to procure a happy Peace; And particularly, how all the Members of both Houses may securely meet in a free and full Convention of Parliament, there to treat, consult, and agree upon such things as may conduce to the maintenance and defence of the true Reformed Protestant Religion, with due consideration to all just and reasonable ease of tender consciences; To the setling and maintaining of Our just Rights and Prero<g ref="char:EOLhyphen"/>gatives, of the Rights and Priviledges of Parliament, the Lawes of the Land, the Liberty and Property of the Subject, and all other expedients that may conduce to that blessed end of a firme and lasting Peace, both in Church and State, and a perfect under<g ref="char:EOLhyphen"/>standing betwixt Vs and Our People; where<g ref="char:EOLhyphen"/>in no endeavours or concurrency of Ours shall be wanting. And God direct your hearts in the waies of Peace. <hi>Oxford, the 3 of March. 1643.</hi>
+            </p>
+         </div>
+         <div type="proclamation">
+            <pb n="3" facs="tcp:200067:3"/>
+            <opener>
+               <salute>May it please Your Majestie;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E the Lords and Commons as<g ref="char:EOLhyphen"/>sembled in the Parliament of <hi>England,</hi> taking into our consi<g ref="char:EOLhyphen"/>deration a Letter sent from Your Majestie, dated the third of March instant, and directed, <hi>To the Lords and Commons of Parliament assembled at Westminster</hi> (which by the contents of a Letter from the Earle of <hi>Forth</hi> unto the Lord Generall the Earle of <hi>Essex,</hi> we conceive was intended to Our selves) have resolved, with the concurrent advice and consent of the Commissioners of the Kingdome of <hi>Scotland,</hi> to represent to Your Ma<g ref="char:EOLhyphen"/>jesty in all humility, and plainnesse, as follow<g ref="char:EOLhyphen"/>eth:</p>
+            <p>THat as we have used all meanes for a just and a safe Peace; so will we never be want<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:200067:4"/>to doe our utmost for the procuring thereof: But when we consider the Expressions in that Letter of Your Majesties, we have more sad and despairing thoughts of attaining the same, then ever; because thereby those persons now assem<g ref="char:EOLhyphen"/>bled at <hi>Oxford,</hi> who contrary to their duty have deserted Your Parliament, are put into an equall condition with it: And this present Parliament, convened according to the knowne and funda<g ref="char:EOLhyphen"/>mentall Lawes of the Kingdome (the continu<g ref="char:EOLhyphen"/>ance whereof is established by a Law consented unto by Your Majesty) is in effect denied to be a Parliament; the scope and intention of that Letter being, to make provision, how all the Members (as is pretended) of both Houses may securely meet in a full and free Convention of Parliament; whereof no other conclusion can be made, but that this present Parliament is not a full nor free Convention: And that to make it a full and free Convention of Parliament, the presence of those is necessary; who, notwith<g ref="char:EOLhyphen"/>standing that they have deserted that great Trust, and doe leavy Warre against the Parlia<g ref="char:EOLhyphen"/>ment, are pretended to be Members of the two Houses of Parliament.</p>
+            <p>And hereupon we thinke our selves bound to
+<pb n="5" facs="tcp:200067:4"/>let Your Majesty know, That seeing the conti<g ref="char:EOLhyphen"/>nuance of this Parliament is setled by a Law (which as all other Laws of Your Kingdomes) Your Majestie hath sworne to maintaine, as we are sworne to our allegiance to Your Majesty (these obligations being Reciprocall) we must in duty, and accordingly are resolved with our Lives and Fortunes to defend and preserve the just Rights and full Power of this Parliament; And doe beseech Your Majesty to bee assured, That Your Majesties Royall and hearty concur<g ref="char:EOLhyphen"/>rence with us herein, will be the most effectuall and ready meanes of procuring a firme and la<g ref="char:EOLhyphen"/>sting Peace in all Your Majesties Dominions; and of begetting a perfect Understanding be<g ref="char:EOLhyphen"/>tweene Your Majesty and Your People: with<g ref="char:EOLhyphen"/>out which Your Majesties most earnest Profes<g ref="char:EOLhyphen"/>sions, and our most reall Intentions concer<g ref="char:EOLhyphen"/>ning the same, must necessarily bee frustra<g ref="char:EOLhyphen"/>ted. And in case Your Majesties three King<g ref="char:EOLhyphen"/>domes should by reason thereof remaine in this sad and bleeding condition, tending (by the Continuance of this unnaturall warre) to their Ruine; Your Majesty cannot bee the least, nor the last Sufferer. God in his Goodnesse, incline Your Royall breast, out of pitty and
+<pb n="6" facs="tcp:200067:5"/>compassion to those deepe sufferings of Your In<g ref="char:EOLhyphen"/>nocent people, to put a speedy, and happy Issue to these desperate Evils, by the joynt Advice of both your Kingdomes now happily united in this Cause by their late solemne League and Cove<g ref="char:EOLhyphen"/>nant; which as it will prove the surest Remedy; so it is the earnest prayer of Your Majesties Loy<g ref="char:EOLhyphen"/>all Subjects, <hi>The Lords and Commons assembled in the Parliament of England. Westminster, the</hi> 9. <hi>of March</hi> 1643.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Wil. <hi>Lord</hi> Grey <hi>of</hi> Wark, <hi>Speaker of the House of Peers</hi> pro tempore.</item>
+                     <item>Wil. Lenthall <hi>Speaker of the House of Commons in Parliament.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
